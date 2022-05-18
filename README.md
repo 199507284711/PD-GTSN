@@ -1,5 +1,7 @@
 # PD-GTSN
 
+This project is for the MDS-UPDRS scores prediction of PD tremors based on video.
+
 ## Requirements
 
 ****The code is built with following libraries:****
