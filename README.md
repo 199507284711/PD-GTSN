@@ -21,7 +21,7 @@ python main.py <train_video_path> \
      --batch-size 32 -j 16 --dropout 0.3 --consensus_type=avg --eval-freq=1 \
      --shift --shift_div=8 --shift_place=blockres --npb
 ```     
-The results of the training are saved as a **pth** file format.
+The results of the training are saved as a **.pth** file format.
 
 ## Testing
 
