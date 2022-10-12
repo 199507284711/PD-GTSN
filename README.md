@@ -13,6 +13,14 @@ This project is for the MDS-UPDRS scores prediction of PD tremors based on video
  - pandas
  - Python 3.x
  
+## Access to Datasets
+
+You must contact us first. Follow the [link](https://zenodo.org/record/7188051) to apply for our dataset!
+Please ensure that you satisfy the following application requirements：
+- Your institution must be non-profit, non-commercial;
+- You must provide proof of relevant medical credentials to show that you are engaged in the same research area;
+- We take the patients' privacy very seriously, even if they have signed a consent form with us. Therefore,you must contact us (email:QBX20210094@yjs.fjnu.edu.cn) first so that we can confirm and review your information in detail. You will then be required to sign a contract to ensure that you will not make the dataset public and use it for any commercial or for-profit purposes;
+ 
 ## Training
 
 To train the model(s) in the paper, run this command:
